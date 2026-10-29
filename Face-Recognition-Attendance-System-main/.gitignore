@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+ML/
+
+# Face dataset
+dataset/
+
+# Attendance records
+attendance/*.csv
+
+# Trained model
+trainer/*.yml
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Personal project data
+user_map.csv
+ML_Report.pdf
